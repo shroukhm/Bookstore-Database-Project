@@ -18,7 +18,7 @@ This project involves the creation and management of a bookstore database using 
 - **Environment**: Jupyter Notebook
 
 ## Project Structure
-- `shrouk hany_Building a Bookstore DB.ipynb`: The main Jupyter Notebook containing the code for database creation, data insertion, and queries.
+- `Building_a_Bookstore_DB.ipynb`: The main Jupyter Notebook containing the code for database creation, data insertion, and queries.
 
 ## Installation
 1. Clone the repository:
@@ -35,7 +35,7 @@ This project involves the creation and management of a bookstore database using 
    ```
 4. Open and run the notebook:
    ```
-   jupyter notebook shrouk hany_Building a Bookstore DB.ipynb
+   jupyter notebook Building_a_Bookstore_DB.ipynb
    ```
 
 ## Usage
@@ -67,6 +67,3 @@ The project demonstrates a functional bookstore database with data integrity che
 
 ## License
 This project is open-source. Feel free to use and modify it as needed.
-
-## Contact
-For questions or contributions, please open an issue or contact the maintainer.
